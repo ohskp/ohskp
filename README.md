@@ -25,7 +25,6 @@ web architect and digital systems scholar.
 <a href="https://git.io/streak-stats"><img src="https://allancoding-github-readme-streak-stats.vercel.app?user=archiivv&theme=ambient-gradient" alt="GitHub Stats" /></a> <br />
  <br />
 i make random little projects. <br />
-if you want to see all my links: [links.archiiv.org](https://links.archiiv.org)</br>
 </br>
 
 </div>
