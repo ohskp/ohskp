@@ -13,18 +13,4 @@ web architect and digital systems scholar.
 <!--    <a href="https://archiiv.org/"><strong>Visit My Website »</strong></a> -->
   </p>
   </div>
-  <br />
-  <br />
-
-  <div align="center">
-   
-# hello there</br>
-
-<br />
- 
-<a href="https://git.io/streak-stats"><img src="https://allancoding-github-readme-streak-stats.vercel.app?user=archiivv&theme=ambient-gradient" alt="GitHub Stats" /></a> <br />
- <br />
-i make random little projects. <br />
-</br>
-
 </div>
